@@ -9,8 +9,8 @@ gemspec
 gem "jquery-rails"
 
 group :development do
-  gem 'shoulda', '>= 0'
-  gem 'pry-rails', '>= 0'
+  gem 'shoulda'
+  gem 'pry-rails'
 end
 
 # Declare any dependencies that are still in development here instead of in
